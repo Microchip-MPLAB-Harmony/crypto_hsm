@@ -2,6 +2,11 @@
 ![Harmony logo small](https://raw.githubusercontent.com/wiki/Microchip-MPLAB-Harmony/Microchip-MPLAB-Harmony.github.io/images/microchip_mplab_harmony_logo_small.png)
 
 # Microchip MPLAB® Harmony 3 Release Notes
+## Crypto HSM  Release v1.1.0
+### New Features
+- **New feature and enhancements
+	- Fixes to cryptographic algorithms
+
 ## Crypto HSM  Release v1.0.0
 ### New Features
 - **New features and enhancements**
